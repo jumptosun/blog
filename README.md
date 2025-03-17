@@ -21,7 +21,6 @@
     * [spice 文档翻译](_posts/2018-03-02-spice-protocol.markdown)
 * [AI 写作](README.md)
     * [AI小说创作方法论](_posts/2025-02-17-AI小说创作方法论.md)
-    * [夜绽狐香](_posts/2025-02-16-夜绽狐香.md)
 * [其他](README.md)
     * [quic 拥塞控制](_posts/2018-03-08-flow-control-in-quic.md)
     * [敏捷开发笔记](_posts/2018-09-19-agile-software-note.md)
